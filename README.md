@@ -1,18 +1,19 @@
 ## Hi, I'm Abdul Quader 👋
 
-🚀 Aspiring Software Engineer | Python & Web Development  
-🧠 Builder mindset • Learning by building • Long-term thinker
+🚀 AI Enthusiast | Aspiring Entrepreneur | Python Learner  
+🧠 Curious mind • Builder mentality • Long-term vision
 
 ### What I'm focused on
-- Mastering **Python** through real-world projects  
-- Building **web apps** and practical tools  
-- Developing strong foundations in **software engineering & problem-solving**
+- Exploring **Artificial Intelligence & Machine Learning**  
+- Learning **Python** as a core tool for AI and problem-solving  
+- Understanding how **technology and business** intersect to create impact
 
 ### Current direction
-- Turning ideas into working products  
-- Using GitHub as a public log of growth, experiments, and shipped projects  
+- Building strong foundations in **AI, programming, and systems thinking**  
+- Learning by experimenting, researching, and iterating  
+- Using GitHub to document growth and ideas over time
 
 ### Philosophy
-> Learn deeply. Build consistently. Think long-term.
+> Think independently. Learn relentlessly. Build with purpose.
 
-📌 Open to feedback, collaboration, and constructive discussions.
+📌 Open to meaningful discussions, feedback, and collaboration.
