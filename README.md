@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @Abdul-Quader
-- Currently trying to master Python
-- My main aim is to build an empire for myself
-- Open to all suggestions and advices :) 
-<!---
-Abdul-Quader-G/Abdul-Quader-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi, I'm Abdul Quader 👋
+
+🚀 Aspiring Software Engineer | Python & Web Development  
+🧠 Builder mindset • Learning by building • Long-term thinker
+
+### What I'm focused on
+- Mastering **Python** through real-world projects  
+- Building **web apps** and practical tools  
+- Developing strong foundations in **software engineering & problem-solving**
+
+### Current direction
+- Turning ideas into working products  
+- Using GitHub as a public log of growth, experiments, and shipped projects  
+
+### Philosophy
+> Learn deeply. Build consistently. Think long-term.
+
+📌 Open to feedback, collaboration, and constructive discussions.
