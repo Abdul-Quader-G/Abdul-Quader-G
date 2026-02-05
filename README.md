@@ -1,7 +1,7 @@
-## Hi, I'm Abdul Quader 👋
+## Hello, I'm Abdul Quader 👋
 
-🚀 AI Enthusiast | Aspiring Entrepreneur | Python Learner  
-🧠 Curious mind • Builder mentality • Long-term vision
+ AI Enthusiast | Aspiring Entrepreneur | Python Learner  
+ Curious mind • Builder mentality • Long-term vision
 
 ### What I'm focused on
 - Exploring **Artificial Intelligence & Machine Learning**  
